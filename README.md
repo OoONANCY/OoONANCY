@@ -1,51 +1,80 @@
-# Hi there, I'm Nancy Sharma! 👋
+<h1 align="center">Hi 👋, I'm Nancy Sharma</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-## 🚀 About Me
-I'm a **Computer Science student** at VIT Bhopal University with a passion for building impactful full-stack applications. Currently working as a **Software Development Intern at Indians in Ghana**, where I create efficient dashboards and automation solutions.
-
-- 🔭 I'm currently working on **Real-Time Toxic Content Detection** and **Secure Payment Systems**
-- 🌱 I'm currently learning **AI/ML Integration** and **Advanced React Patterns**
-- 💬 Ask me about **Full-Stack Development, RESTful APIs, Flutter, and Browser Extensions**
-- 📫 How to reach me: **reachnancysharma@gmail.com**
-- ⚡ Fun fact: I placed **9th out of 267 teams** in Health Hack Hackathons with Johns Hopkins University!
-
-## 🛠️ Technical Skills
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=OoONANCY&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OoONANCY&layout=compact&theme=radical&hide_border=true)
+## 🌟 **About Me**
+- 🔥 Passionate about **Full Stack Development & AI Integration**  
+- 🛠️ Specializing in **React.js, Node.js, MongoDB, Flutter, Express.js**  
+- 🎓 B.Tech in Computer Science at **VIT Bhopal University**  
+- 🌱 Currently Learning **Advanced AI Models & Real-Time Systems**  
+- 💬 Ask me about **React, JavaScript, Node.js, Flutter, RESTful APIs**  
+- 📫 Contact me at **reachnancysharma@gmail.com**  
 
 ---
 
-💡 *"Building solutions that make a difference, one line of code at a time."*
+## 🚀 **Tech Stack & Tools**
+| **Frontend**  | **Backend**  | **Database** | **Mobile** | **DevOps & Tools** |
+|--------------|------------|-------------|-----------|-----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/> Flutter | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> Postman |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/> Dart | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/> Git |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> React.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="40"/> SQLite | | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> Figma |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> Java | | | <img src="https://avatars.githubusercontent.com/u/24888895?s=200&v=4" width="40"/> n8n |
 
-![Profile Views](https://komarev.com/ghpvc/?username=OoONANCY&color=blueviolet&style=flat-square)
+---
+
+## 🏆 **Achievements & Contributions**
+| **Achievement**  | **Details**  |
+|-----------------|-------------|
+| 🥉 **9th Place - Health Hack Hackathon** | Secured 9th position out of 267 teams from across India (VIT Bhopal × Johns Hopkins University) |
+| 🏅 **Top 75 - CodeX 2.0** | Placed in Top 75 among 700+ teams |
+| 🎖️ **SIH 2024 Finalist** | Smart India Hackathon Finalist (Top 5% nationwide) |
+| 👩‍💻 **SheFi Scholar** | Selected from 5000+ applicants as a Women in Tech Scholar |
+| 🚀 **Built Full Stack Applications** | Developed multiple MERN stack applications |
+| 💼 **Real-World Impact** | Created systems saving hours weekly through automation |
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OoONANCY&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### **🔥 Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoONANCY&layout=compact&theme=radical" />
+</p>
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OoONANCY&theme=react-dark" />
+</p>
+
+---
+
+## 🎯 **What I Love Doing?**
+- 💻 **Building Scalable Web & Mobile Applications**  
+- 🔐 **Developing Secure Backend Systems**  
+- 📊 **Creating Real-Time Dashboards & Analytics**  
+- 🎨 **Designing Responsive & Interactive UIs**  
+
+---
+
+## 📞 **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/reachnancy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://github.com/OoONANCY" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" width="40" />
+  </a>
+  <a href="mailto:reachnancysharma@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OoONANCY&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+⭐ **If you like my work, feel free to give it a star!** ⭐
